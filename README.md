@@ -1,13 +1,12 @@
-# New Glory Phones
+# Phavour Phones
 
-Premium multi-brand gadget store website for New Glory Phones.
+Premium multi-brand gadget store website for Phavour Phones.
 
 ## Brand details
 
 - Tagline: Experience Communication
-- WhatsApp: 0818 750 5466
-- Phone: 0814 157 0070
-- Instagram: [@newgloryphones](https://instagram.com/newgloryphones)
+- WhatsApp: +234 703 913 9229
+- Phone: +234 703 913 9229
 
 ## Run locally
 
